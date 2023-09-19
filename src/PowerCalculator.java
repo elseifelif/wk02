@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     System.out.println("Sayı ve üs değerini yazınız.");
-    
+    //Değişkenler
     int power, number;
 
     Scanner scan = new Scanner (System.in);
